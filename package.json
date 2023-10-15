@@ -1,0 +1,16 @@
+{
+  "name": "hidde-cc",
+  "type": "module",
+  "version": "0.0.1",
+  "author": "@hiddevb",
+  "scripts": {
+    "dev": "astro dev",
+    "serve": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^3.3.0"
+  }
+}
